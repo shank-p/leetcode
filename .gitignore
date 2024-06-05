@@ -1,0 +1,3 @@
+# ignore rust debug and executable files.
+*.exe
+*.pdb
