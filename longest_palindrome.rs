@@ -53,8 +53,4 @@ fn main() {
     let s: String = s.trim().to_string();
 
     println!("-->> result : {}", longest_palindrome(s));
-
-    // let p = s.chars().next().unwrap() as u8 - 65;
-    // println!("HEHEH {p}");
-    // println!("BIT HEHEH : {}", 1 << p);
 }
